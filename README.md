@@ -72,14 +72,6 @@ Most of my work focuses on helping teams **deploy faster, operate reliably, and 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=keerti-dev&theme=dark&hide_border=false"/>
-</p>
-
----
-
 ## 🐍 Contribution Graph
 
 <p align="center">
