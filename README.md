@@ -14,9 +14,7 @@ Senior DevOps Engineer • AWS & Azure • Cloud Automation
 </a>
 <a href="mailto:keertitangudu9@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=keerti-dev&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+
 
 ---
 
