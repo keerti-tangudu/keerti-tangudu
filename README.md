@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/keerti-tangudu/keerti-tangudu/blob/main/banner.png" alt="GitHub Banner" width="100%"/>
+</div>
+
 <h1 align="center">👋 Hi, I'm Keerti Tangudu</h1>
 
 <h3 align="center">
