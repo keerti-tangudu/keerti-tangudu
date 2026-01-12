@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/keerti-dev/keerti-dev/main/banner.png" alt="GitHub Banner" width="100%"/>
-</div>
+#<div align="center">
+#<img src="https://raw.githubusercontent.com/keerti-dev/keerti-dev/main/banner.png" alt="GitHub Banner" width="100%"/>
+#</div>
 
 <h1 align="center">👋 Hi, I'm Keerti Tangudu</h1>
 
