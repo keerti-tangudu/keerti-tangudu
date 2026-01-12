@@ -20,7 +20,7 @@ Senior DevOps Engineer • AWS & Azure • Cloud Automation
 
 ## 👨‍💻 About Me
 
-I’m **Keerti Tangudu**, a **DevOps and SRE Engineer with 4+ years of hands-on experience** working across **AWS and Azure** environments.
+I’m **Keerti Tangudu**, a **Senior DevOps Engineer with 4+ years of hands-on experience** working across **AWS and Azure** environments.
 
 I enjoy building **reliable, scalable, and automated cloud platforms**, solving infrastructure problems, and reducing operational overhead through **Infrastructure as Code, CI/CD automation, and Kubernetes**.
 
